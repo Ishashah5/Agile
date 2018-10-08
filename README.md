@@ -265,4 +265,5 @@ df=df.set_index('Date')
 df.columns=['Open','High','Low','Close','Volume','Moving Average','Momentum','CCI','Larry Williams R%','ADI','Stochastic K%','Stochastic D%','RSI','Weighted Moving Average','MACD']
 
 print(df)
-#df.to_csv('TI3.csv')
+df.to_csv('TI3.csv')
+print(df)
