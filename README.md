@@ -1,4 +1,4 @@
-# Agile
+# Agile new added features
 Practical
 import matplotlib.pyplot as plt
 from matplotlib import style
